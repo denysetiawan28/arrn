@@ -1,15 +1,15 @@
 <?php
 
 //Define your host here.
-$HostName = "localhost";
+$HostName = "remotemysql.com";
 
 //Define your database name here.
-$DatabaseName = "crudrn_pegawai";
+$DatabaseName = "nGSWY8FyYM";
 
 //Define your database username here.
-$HostUser = "root";
+$HostUser = "nGSWY8FyYM";
 
 //Define your database password here.
-$HostPass = "";
+$HostPass = "g2u3TwKrwN";
 
 ?>

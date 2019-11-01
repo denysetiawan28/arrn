@@ -1,7 +1,17 @@
 <?php
  
 // Importing DBConfig.php file.
-include 'DBConfig.php';
+//include 'DBConfig.php';
+$HostName = "remotemysql.com";
+
+//Define your database name here.
+$DatabaseName = "nGSWY8FyYM";
+
+//Define your database username here.
+$HostUser = "nGSWY8FyYM";
+
+//Define your database password here.
+$HostPass = "g2u3TwKrwN";
  
 // Connecting to MySQL Database.
  $con = mysqli_connect($HostName,$HostUser,$HostPass,$DatabaseName);

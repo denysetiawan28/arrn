@@ -1,7 +1,6 @@
 <?php
 //include 'DBConfig.php';
 //Define your host here.
-echo "test";
 
 $HostName = "remotemysql.com";
 
